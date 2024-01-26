@@ -30,3 +30,8 @@ smart_api
     }).catch(err => {
         console.log("Error ", err)
     })
+
+
+ 
+// get all tradeable instruments from angel one 
+// https://margincalculator.angelbroking.com/OpenAPI_File/files/OpenAPIScripMaster.json    
